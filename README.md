@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Adair Carvalho</h1>
 
 <p align="center">
-  💻 Gerente de Projetos | Líder Técnico | Desenvolvedor Python <br>
+  💻 Gerente de Projetos | Líder Técnico <br>
   🚀 Apaixonado por Cloud, DevOps e Soluções Escaláveis
 </p>
 
