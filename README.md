@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim  
 - 👨‍💻 Profissional de TI com **+15 anos de experiência** em projetos de grande porte (Telecom, Financeiro e Tecnologia).  
-- 📌 Atuação como **Gerente de Projetos | Líder Técnico em Java, Python, Angular, AWS e DevOps**.  
+- 📌 Atuação como **Gerente de Projetos | Líder Técnico em Java, Python, Angular, Azure, AWS, Digital Ocean e DevOps**.  
 - 📊 Certificado **PSM I**, MBA em **Data Science & Big Data**.  
 - 🍷 Empreendedor e proprietário da **Adega Flor de Coimbra**, a mais antiga da Lapa (RJ).  
 
